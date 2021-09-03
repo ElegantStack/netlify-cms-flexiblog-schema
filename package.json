@@ -1,5 +1,5 @@
 {
-	"name": "netlify-cms-flexiblog-schema",
+	"name": "netlify-cms-schema-blog",
 	"version": "1.0.0",
 	"author": "ElegantStack Studio",
 	"bin": "./index.js"
