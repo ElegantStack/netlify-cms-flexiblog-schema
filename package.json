@@ -1,6 +1,6 @@
 {
 	"name": "netlify-cms-schema-blog",
 	"version": "1.0.0",
-	"author": "ElegantStack Studio",
+	"author": "ElegantStack Studio <elegantstack.studio@gmail.com>",
 	"bin": "./index.js"
 }
